@@ -2,9 +2,13 @@
 
 - 🔭 I’m currently working on finishing General Assembly's Software Engineering Immersive Remote Bootcamp.
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and jQuery.
+- 🌱 I’m currently learning MERN stack.
 
 - 😄 Pronouns: She/Her/Hers
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/melaniefrancisco" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png/></a>
 
 ### Languages and Tools
 
