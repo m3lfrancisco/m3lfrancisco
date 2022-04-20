@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/melaniefrancisco" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
+<a href="https://www.linkedin.com/in/melaniefrancisco" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt=" " height="30"/></a>
 
 ### Languages and Tools
 
