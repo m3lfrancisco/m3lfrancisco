@@ -1,6 +1,6 @@
 ### Hi there, I'm Melanie! 👋
 
-- 🔭 I’m currently working on finishing General Assembly's Software Engineering Immersive Remote Bootcamp.
+- 🔭 I graduated from General Assembly's Software Engineering Immersive Remote Bootcamp.
 
 - 🌱 I’m currently learning MERN stack.
 
